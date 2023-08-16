@@ -19,9 +19,9 @@ Firsly after loaing the dataset, the text is preprocessed.
 Then vectors of the text is created; 2 kinds of vector, tfidf and Word2Vec vectors are created.
 Then it is trained an tested using various models like Logistic Regression, KNN, etc.
 
-How to ruun the code:
-Upload all the files of the dataset
-Install all the necessary packages mentioned in the code
-Run each block of the code.
+How to run the code:
+1.Upload all the files of the dataset
+2.Install all the necessary packages mentioned in the code
+3.Run each block of the code.
 
 
